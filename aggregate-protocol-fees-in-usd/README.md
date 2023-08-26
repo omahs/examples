@@ -1,6 +1,6 @@
 # Example: Aggregate protocol fees in USD across multiple chains
 
-This example shows how to track fee colelction events of a DeFi protocol where fees can be any arbitrary ERC20 token. 
+This example shows how to track fee collection events of a DeFi protocol where fees can be any arbitrary ERC20 token. 
 
 In this example you learn:
 * To use [`prices` integration](https://docs.flair.build/advanced/integrations#prices)  to get USD price of any ERC20 token for any block number or timestamp in the past.
